@@ -17,8 +17,8 @@
 ``` sudo dnf install jenkins -y ```
 
 ## Step 6: Start and Enable Jenkins
-```sudo systemctl enable jenkins
-   sudo systemctl start jenkins```
+``sudo systemctl enable jenkins
+   sudo systemctl start jenkins``
 
 ## Step 7: Access Jenkins
 ``` http://your_amazon_linux_instance_ip:8080 ```
